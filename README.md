@@ -1,2 +1,2 @@
 # Projeto-EBAC
-Repositório criado para controle de versionamento do projeto final da EBAC
+Repositório criado para aprender o controle de versionamento usando o git bash.
